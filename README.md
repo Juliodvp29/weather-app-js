@@ -15,7 +15,7 @@
 
 ## Autor ✒️
 
-* **Julio otero** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Julio otero** 
 <p>Web Site</p>
 <code>  https://hypercorrect-examin.000webhostapp.com/  </code>
 
