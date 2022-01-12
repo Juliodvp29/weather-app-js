@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Weather App</title>
+</head>
+<body>
+    <div class="content">
+		<main>
+			<div class="info">
+				<h1 id="info-temp"></h1>
+				<data>
+					<h2 id="name-city" ></h2>
+					<p id="info-time"></p>
+				</data>
+			</div>
+		</main>
+		<aside>
+			<div class="find">
+				<input id="find-city" type="text" placeholder="Ingrese la ciudad">
+				<button id="btn-find"><i>Find</i></button>
+			</div>
+			<div class="details">
+				<div class="weather-details">
+					<p>Detalles del Clima</p>
+					<table>
+						<tr>
+							<td>Nubosidad</td>
+							<td id="info-nubosidad"></td>
+						</tr>
+						<tr>
+							<td>Humedad</td>
+							<td id="info-humedad"></td>
+						</tr>
+						<tr>
+							<td>Vientos</td>
+							<td id="info-viento"></td>
+						</tr>
+					</table>
+				</div>
+				<div class="weather-details">
+					<table>
+						<tr>
+							<td>Atardecer</td>
+							<td id="info-atardecer"></td>
+						</tr>
+						<tr>
+							<td>Puesta de sol</td>
+							<td id="info-psol"></td>
+						</tr>
+						<tr>
+							<td>Latitud</td>
+							<td id="info-ltd"></td>
+						</tr>
+                        
+					</table>
+				</div>
+			</div>
+            <p id="info-desc"></p>
+		</aside>
+       <script src="/JS/weather.js"></script>
+	</div>
+</body>
+</html>
