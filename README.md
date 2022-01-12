@@ -6,7 +6,7 @@
 # Instructions
 <p>clone the repository on your computer</p>
 
-<code> git clone _https://github.com/Juliodvp29/weather-app-js.git_  </code>
+<code> git clone https://github.com/Juliodvp29/weather-app-js.git  </code>
 
 # build in 🛠️
 * [JavaScript] - Frontend
