@@ -8,12 +8,12 @@
 
 <code> git clone _https://github.com/Juliodvp29/weather-app-js.git_  </code>
 
-#build in 🛠️
+# build in 🛠️
 * [JavaScript] - Frontend
 * [CSS] - Desing
 * [HTML] - layout
 
-## Autor ✒️
+# Autor ✒️
 
 * **Julio otero** 
 <p>Web Site</p>
